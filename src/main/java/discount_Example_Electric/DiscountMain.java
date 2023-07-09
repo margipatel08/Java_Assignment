@@ -14,7 +14,7 @@ public class DiscountMain {
         products.add(new Discount("Mobile", "P003", "ELECTRIC", "Smartphone", 800.0));
         products.add(new Discount("Jeans", "P004", "CLOTH", "Men's jeans", 70.0));
         products.add(new Discount("Laptop", "P005", "ELECTRIC", "Notebook", 1000.0));
-        products.add(new Discount("Computer", "P006", "ELeCTRIC", "Macbook", 2000.0));
+        products.add(new Discount("Computer", "P006", "ELeCTRIC", "Macbook", 2005.0));
 
         // Apply discounts using streams and lambda expressions
 		/*
